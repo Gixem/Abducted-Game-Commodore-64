@@ -36,7 +36,7 @@ vehicle.bmp
 If you downloaded the precompiled version, run Abducted.exe from the Debug folder.
 If you compiled it yourself, make sure you are in Debug Mode and run the game.
 
-### 📷 Screenshot
+### 📷 Screenshots
 Here are some screenshots from the game:
 
 <img src=https://github.com/user-attachments/assets/bacd8bde-0455-46aa-9dec-c446f759dab5 width="500">
