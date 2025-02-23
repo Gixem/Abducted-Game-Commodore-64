@@ -18,18 +18,18 @@ To run this game, you need the ICBYTES framework.
 🔗 [ICBYTES Library](https://otoidrak.com/en/software.html)
 
 ### 2️⃣ Installation Steps
-1. Download and extract the ICBYTES framework to a folder on your local disk (e.g., C:\ICBYTES_S_TR).
+1. Download and extract the ICBYTES library to a folder on your local disk (e.g., C:\ICBYTES_S_TR).
 2. Download this repository and extract the game folder (AbductedGame).
-3. Place the game folder inside the ICBYTES framework directory.
+3. Place the game folder inside the ICBYTES library directory.
 Example: C:\ICBYTES_S_TR\AbductedGame\
 4. Ensure the following files are included in the game directory:
-Debug.lib
-Release.lib
-abductedmusic.wav
-background.bmp
-ufo.bmp
-soldier.bmp
-vehicle.bmp
+- Debug.lib
+- Release.lib
+- abductedmusic.wav
+- background.bmp
+- ufo.bmp
+- soldier.bmp
+- vehicle.bmp
 5. Open Visual Studio and compile the project.
 
 ### 3️⃣ Running the Game
