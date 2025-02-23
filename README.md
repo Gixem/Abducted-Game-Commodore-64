@@ -36,6 +36,7 @@ vehicle.bmp
 If you downloaded the precompiled version, run Abducted.exe from the Debug folder.
 If you compiled it yourself, make sure you are in Debug Mode and run the game.
 
+
 ## 📷 Screenshots
 Here are some screenshots from the game:
 
@@ -46,6 +47,7 @@ The GAME OVER screen:
 
 <img src=https://github.com/user-attachments/assets/38a6fc82-661a-427c-bec3-df156226dbe2 width="500">
 
+
 ## ⚠️ Troubleshooting
 ### Game Won't Compile?
 Make sure the ICBYTES framework is correctly placed on your local disk.
@@ -55,7 +57,7 @@ Try running the game in Debug Mode first.
 If you see a missing file error, check if Debug.lib and Release.lib exist in the game directory.
 Some antivirus programs might flag the .exe file as unknown—try allowing it in your settings.
 
-### 📧 Contact
+## 📧 Contact
 If you run into any issues, feel free to contact me via my email: gizem@sandallioglu.com or [LinkedIn](https://www.linkedin.com/in/gizem-sandallioglu/)
 
 ### Happy Gaming! 🎮 🚀
